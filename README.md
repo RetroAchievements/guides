@@ -1,2 +1,10 @@
 # guides
 A repo/wiki to achievement developers put guides for their achievement sets
+
+## How to use it
+
+1. Log into your github account (or [create an account](https://github.com/join) if you don't have one).
+2. Go to [the wiki section of this repository].
+3. Click on the New Page button (top right part of the page).
+4. Create/edit your guide formatting it with [markdown](http://commonmark.org/help/).
+5. Save the page.
