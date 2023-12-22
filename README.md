@@ -1,5 +1,5 @@
-# guides
-A repo/wiki for achievement developers to put guides for their achievement sets
+# Guides
+A repo/wiki for RetroAchievement uaers to create guides for achievement sets.
 
 ## How to use it
 
